@@ -15,6 +15,9 @@ Faizal-1701
 
 📫 How to reach me mohammedfaizal29064@gmail.com
 
+Connect with me:
+www.linkedin.com/in/mohammed-faizal-n-422278270
+
 Languages and Tools:
 [mongodb](https://www.mongodb.com) [mysql](https://www.mysql.com/) [pandas](https://pandas.pydata.org/) [postgresql](https://www.postgresql.org/) [python](https://www.python.org/) [streamlit](https://streamlit.io/) [seaborn](https://seaborn.pydata.org/)
 <!---
