@@ -21,7 +21,6 @@ www.linkedin.com/in/mohammed-faizal-n-422278270
 Languages and Tools:
 [mongodb](https://www.mongodb.com) [mysql](https://www.mysql.com/) [pandas](https://pandas.pydata.org/) [postgresql](https://www.postgresql.org/) [python](https://www.python.org/) [streamlit](https://streamlit.io/) [seaborn](https://seaborn.pydata.org/)
 
-mongodb mysql pandas postgresql python scikit_learn seaborn
 <!---
 Faizal-1701/Faizal-1701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
