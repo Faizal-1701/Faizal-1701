@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Faizal N</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">"Embarking on the Data Science Journey: A Fresh Perspective"
+</h3>
 
 - 🌱 I’m currently learning **Data Science @GUVI IIT-M**
 
