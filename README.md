@@ -2,7 +2,7 @@
 <h3 align="center">"Embarking on the Data Science Journey: A Fresh Perspective"
 </h3>
 
-- 🌱 I’m currently learning **Data Science @GUVI IIT-M**
+- 🌱 I’m recentlycompleted my **Master Data Science @GUVI IIT-M**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Faizal-1701](https://github.com/Faizal-1701)
 - Here is my Certificate https://digitalskills.iitmpravartak.org.in/verify/cert/43123H51aTYn1I9979
