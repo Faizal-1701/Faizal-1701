@@ -9,8 +9,8 @@
 
 - 💬 **Welcome! If you have any questions or if you'd like to discuss anything related to data science, feel free to reach out. I'm passionate about the following topics: - Data Science Fundamentals: From understanding core concepts to practical applications. - Machine Learning: Exploring various algorithms, model building, and evaluation. - Programming in Python: Coding for data analysis, manipulation, and visualization. - Statistical Analysis: Applying statistical methods and hypothesis testing to draw insights. - Data Visualization: Creating compelling visualizations to communicate findings effectively. - Exploratory Data Analysis (EDA): Uncovering patterns and trends in raw data. - Collaboration: I'm open to collaborative projects and learning from each other. Don't hesitate to ask me anything or initiate a discussion. Let's learn and grow together!**
 
-- 📫 How to reach me **mohammedfaizal29064@gmail.com**
-
+- 📫 Feel Free to reach me **mohammedfaizal29064@gmail.com**
+- Click here to portfolio [https://faizal-1701.github.io/](https://faizal-1701.github.io/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohammeddfaizal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohammeddfaizal/" height="30" width="40" /></a>
