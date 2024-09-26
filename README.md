@@ -2,6 +2,7 @@
 <h3 align="center">"Embarking on the Data Science Journey: A Fresh Perspective"
 </h3>
 
+https://camo.githubusercontent.com/7e636d84a3fa63e8a5fb0129ee5f8173da2bc939b4581102de379c4894c49620/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6b68697a61722d3134266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174
 - 🌱 I’m recentlycompleted my **Master Data Science @GUVI IIT-M**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Faizal-1701](https://github.com/Faizal-1701)
